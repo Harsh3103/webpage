@@ -1,0 +1,7 @@
+/* Add your other styles here */
+
+.custom-dots li button:before {
+   font-size: 10px; /* Adjust the font size as needed */
+   color: white; /* Set the color to white */
+ }
+ 
